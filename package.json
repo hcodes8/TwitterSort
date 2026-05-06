@@ -1,0 +1,14 @@
+{
+  "name": "twitter-likes-manager",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "esbuild src/background/background.ts src/content/content.ts src/popup/popup.ts --bundle --outdir=public --entry-names=[name] --platform=browser --target=chrome120 --minify",
+    "dev": "esbuild src/background/background.ts src/content/content.ts src/popup/popup.ts --bundle --outdir=public --entry-names=[name] --platform=browser --target=chrome120 --sourcemap --watch"
+  },
+  "devDependencies": {
+    "@types/chrome": "^0.0.268",
+    "esbuild": "^0.21.5",
+    "typescript": "^5.4.5"
+  }
+}
