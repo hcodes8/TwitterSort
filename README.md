@@ -67,6 +67,6 @@ A Chrome extension that lets you scan, search, filter, and sort your liked tweet
    - **Sort** — newest, oldest, author, or most liked
    - **Has media** — show only tweets with images or videos
    - **Date range** — limit to a specific time window
-5. Click **Open tweet ↗** on any card to view the original tweet
+5. Click **Open tweet** on any card to view the original tweet
 6. Click **Stop Scan** at any time to pause collection
 7. Click **Clear** to delete all stored tweets from local storage
