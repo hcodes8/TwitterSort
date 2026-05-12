@@ -20,7 +20,7 @@ A Chrome extension that lets you scan, search, filter, and sort your liked tweet
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/TwitterSort.git
+   git clone https://github.com/hcodes8/TwitterSort.git
    cd TwitterSort
    ```
 
